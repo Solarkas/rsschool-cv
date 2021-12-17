@@ -12,7 +12,8 @@ _I'm loving code. I like to solve problems, find new non-standard solutions. I w
 
 ###Code examples:
 
-````function duplicateCount(str) {
+```
+function duplicateCount(str) {
   let a = 0;
   let massiv = [];
   let b = str.toLowerCase();
@@ -29,11 +30,15 @@ _I'm loving code. I like to solve problems, find new non-standard solutions. I w
         }
   }
   return massiv.length;
-} ```
+}
+```
 
 ###Contact:
 VK: [Solarios](https://vk.com/id6659601);
 Github: [Solarkas](https://github.com/Solarkas);
 e-mail: [G-mail](vseigru@gmail.com);
 Discord nickname: Antony (@Solarkas)
-````
+
+```
+
+```
