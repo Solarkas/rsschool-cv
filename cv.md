@@ -29,7 +29,7 @@ _I'm loving code. I like to solve problems, find new non-standard solutions. I w
         }
   }
   return massiv.length;
-}```
+} ```
 
 ###Contact:
 VK: [Solarios](https://vk.com/id6659601);
