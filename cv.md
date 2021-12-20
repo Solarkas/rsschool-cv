@@ -1,16 +1,19 @@
-#Mozgovoy Anton
+# Mozgovoy Anton
 
-##About me:  
+![alt text](screenshots/1.jpg "Мозговой Антон")​
+
+## About me:
+
 _I'm loving code. I like to solve problems, find new non-standard solutions. I want to be a useful person, learn, and mean something._
 
-###Skills:
+### Skills:
 
 - HTML;
 - CSS;
 - JavaScript(in process);
 - React (in process);
 
-###Code examples:
+### Code examples:
 
 ```
 function duplicateCount(str) {
@@ -33,12 +36,18 @@ function duplicateCount(str) {
 }
 ```
 
-###Contact:
-VK: [Solarios](https://vk.com/id6659601);
-Github: [Solarkas](https://github.com/Solarkas);
-e-mail: [G-mail](vseigru@gmail.com);
+### Contact:
+
+VK: [Solarios](https://vk.com/id6659601);  
+Github: [Solarkas](https://github.com/Solarkas);  
+e-mail: [G-mail](vseigru@gmail.com);  
 Discord nickname: Antony (@Solarkas)
 
-```
+### Education:
 
-```
+- University education;
+
+### Languages:
+
+- Russian;
+- English (basic level);
