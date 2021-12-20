@@ -1,6 +1,6 @@
 # Mozgovoy Anton
 
-![<img src="screenshots/1.jpg" width="50"/>](screenshots/1.jpg "Мозговой Антон")​
+<img src="screenshots/1.jpg" width="50" alt="Antony Mozgovoy" />​
 
 ## About me:
 
