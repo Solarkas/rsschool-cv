@@ -1,6 +1,6 @@
 # Mozgovoy Anton
 
-<img src="screenshots/1.jpg" width="100" alt="Antony Mozgovoy" />​
+<img src="./assets/img/1.jpg" width="100" alt="Antony Mozgovoy" />​
 
 ## About me:
 
